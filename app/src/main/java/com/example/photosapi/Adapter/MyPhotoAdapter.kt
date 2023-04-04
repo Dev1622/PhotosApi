@@ -1,7 +1,7 @@
 package com.example.photosapi.Adapter
 
 import android.content.Context
-import android.support.v7.view.menu.MenuView.ItemView
+//import android.support.v7.view.menu.MenuView.ItemView
 import android.text.Layout
 import android.view.LayoutInflater
 import android.view.View
